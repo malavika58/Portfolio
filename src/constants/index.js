@@ -38,7 +38,7 @@ export const PROJECTS = [
     image: career,
     description:
       "An intuitive app designed to assist students in identifying their interests through interactive quizzes. It provides personalized career recommendations, course details, college options, and essential skills, empowering students to make informed decisions about their academic and professional paths.",
-    technologies: ["Java swing", "java","File Handling"," Data Structures"],
+    technologies: ["Java swing", "java","File Handling"],
   },
 ];
 
