@@ -2,7 +2,7 @@ import React from 'react'
 import { CONTACT } from '../constants'
 const Contacts = () => {
   return (
-    <div className='mt-[-30px] pb-10'>
+    <div className='mt-[-10px] pb-10'>
         <div className='border-t border-white opacity-25 '></div>
         <div className='text-sm text-center tracking-tighter'>
             <p className='my-4'>
