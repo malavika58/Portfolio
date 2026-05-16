@@ -2,7 +2,8 @@ import ecom from "../assets/projects/e-com.png";
 import taskman from "../assets/projects/taskman-1.png";
 import career from "../assets/projects/career.jpg"
 
-export const HERO_CONTENT = `I am a dedicated Computer Science student with a passion for learning and exploring technology. Though I am at the beginning of my journey, I am committed to building my skills in coding, problem-solving, and software development to achieve my career goals in the tech industry.`;
+export const HERO_CONTENT = `Motivated third-year B.Tech Computer Science student with a strong interest in Full-Stack Development, Data Science, Artificial Intelligence, AI/ML, Web Development, Cyber Security, and Health-Tech innovation. Skilled in Java, MERN stack, and database management, with hands-on experience in developing user-focused applications and intelligent systems. Passionate about combining creativity, technology, and problem-solving to build impactful real-world solutions while continuously learning and growing as an engineer.
+`;
 export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
 
 export const EXPERIENCES = [
