@@ -35,7 +35,7 @@ const Hero = () => {
         <motion.span 
          variants={childVariants}
          className='bg-gradient-to-r from-stone-300 to-stone-600 text-2xl lg:text-5xl tracking-tight text-transparent bg-clip-text'>
-          Budding Tech Enthusiast
+          Aspiring Developer & Tech Enthusiast
         </motion.span>
         <motion.p 
           variants={childVariants}
